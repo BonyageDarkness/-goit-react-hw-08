@@ -1,0 +1,17 @@
+.userMenu {
+    display: flex;
+    align-items: center;
+}
+
+.welcome {
+    margin-right: 15px;
+    font-weight: bold;
+}
+
+.button {
+    padding: 5px 10px;
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}

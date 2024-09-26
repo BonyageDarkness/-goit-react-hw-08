@@ -1,0 +1,10 @@
+.container {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1,
+h2 {
+    text-align: center;
+}
