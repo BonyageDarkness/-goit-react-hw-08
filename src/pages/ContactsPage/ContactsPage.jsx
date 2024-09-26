@@ -15,11 +15,9 @@ const ContactsPage = () => {
 
     return (
         <div className={styles.container}>
-            <h1 className={styles.title}>Контакты</h1>
-            <div className={styles.formContainer}>
-                <ContactForm />
-                <SearchBox />
-            </div>
+            <h1 className={styles.title}>Контакти</h1>
+            <ContactForm />
+            <SearchBox />
             <ContactList />
         </div>
     );
